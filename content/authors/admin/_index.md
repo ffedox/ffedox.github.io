@@ -34,9 +34,9 @@ profiles:
     url: 'mailto:alice.fedotova7@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/call_me_ffedox
+    url: https://x.com/fedotova_alice
   - icon: brands/github
-    url: https://github.com/alicefedotova
+    url: https://github.com/ffedox
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alice-fedotova/
   - icon: academicons/google-scholar
@@ -49,7 +49,7 @@ profiles:
 interests:
   - Natural Language Processing
   - Computational Linguistics
-  - Creation of Resources
+  - Language Resource Creation
   - Language Data Analysis
 
 education:
@@ -184,4 +184,4 @@ awards:
 
 ## About Me
 
-Alice Fedotova is an independent researcher and a freelance consultant in the field of Natural Language Processing. She is a former Research Fellow at the University of Bologna, where she worked on Automatic Speech Recognition and multimodal Transformers. Her research interests include Information Extraction, Language Resource Creation, and Multimodality. Since 2024, she is a member of [AILC](https://www.ai-lc.it/en/), the Italian Association of Computational Linguistics.
+Alice Fedotova is an independent researcher and a freelance consultant in the field of Natural Language Processing. She is a former Research Fellow at the University of Bologna, where she worked on Automatic Speech Recognition and multimodal Transformers. Her research interests include Information Extraction, Language Resource Creation, and Multimodality. She is a member of [AILC](https://www.ai-lc.it/en/), the Italian Association of Computational Linguistics.
