@@ -56,12 +56,12 @@ work:
     date_end: 2024-10-01
     summary: |
       Responsibilities include:
+      - Testing Automatic Speech Recognition models for verbatim transcription
+      - Updating the European Parliament Translation and Interpreting Corpus
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: Research Intern
+    company_name: University of Bologna
+    company_url: 'https://www.unibo.it/'
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -95,7 +95,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://amslaurea.unibo.it/id/eprint/29006/1/Alice_Fedotova_Dissertation.pdf'
-  - area: BA in Languages and Technologies for Intercultural communication
+  - area: BA in Languages and Technologies for Intercultural Communication
     institution: University of Bologna
     date_start: 2017-10-01
     date_end: 2020-10-02

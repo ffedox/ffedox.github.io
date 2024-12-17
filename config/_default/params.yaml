@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: light
   color: blue
 
 # SEO
@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Hi, I'm Alice! I hold a Master's degree in Translation Technology and have completed both a Research Internship and a Fellowship at the University of Bologna'
+    twitter: 'fedotova_alice'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© Alice Fedotova {2024}.'
+    notice: '© Alice Fedotova 2025.'
     license:
       enable: true
       allow_derivatives: false
