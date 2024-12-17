@@ -46,6 +46,31 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0001-4850-0974
 
+
+work:
+  - position: Research Fellow
+    company_name: University of Bologna
+    company_url: 'https://www.unibo.it/'
+    icon: hero/circle-stack
+    date_start: 2023-10-01
+    date_end: 2024-10-01
+    summary: |
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 interests:
   - Natural Language Processing
   - Computational Linguistics
@@ -83,30 +108,6 @@ education:
       - Computational Linguistics
       - Computer-Assisted Translation
       - Translation and Liaison Interpreting
-
-work:
-  - position: Research Fellow
-    company_name: University of Bologna
-    company_url: 'https://www.unibo.it/'
-    icon: hero/circle-stack
-    date_start: 2023-10-01
-    date_end: 2024-10-01
-    summary: |
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
