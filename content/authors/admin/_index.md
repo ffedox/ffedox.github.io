@@ -24,7 +24,7 @@ role: Language Technology Consultant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 'Former Research Fellowww @UniBo'
+  - name: 'Former Research Fellow @UniBo'
     url: 'https://www.unibo.it/sitoweb/alice.fedotova2/contenuti-utili'
 
 # Social network links
